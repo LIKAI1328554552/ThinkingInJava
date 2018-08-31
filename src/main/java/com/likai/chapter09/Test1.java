@@ -1,6 +1,7 @@
 package com.likai.chapter09;
 
 /**
+ * 内部类应用
  * Created by likai on 2018/08/28.
  */
 public class Test1 {
