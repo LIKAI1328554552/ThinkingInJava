@@ -3,6 +3,7 @@ package com.likai.chapter01.practice;
 /**
  * Created by likai on 2018/08/01.
  * 控制台输出Hello World
+ * 让我再来试试
  */
 public class Test2 {
 
