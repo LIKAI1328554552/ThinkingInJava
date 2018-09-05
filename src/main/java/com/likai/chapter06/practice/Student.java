@@ -5,7 +5,7 @@ package com.likai.chapter06.practice;
  */
 public class Student extends Person{
     
-    private String nubmer ;
+    private String number ;
 
     private String schoolName ;
 
