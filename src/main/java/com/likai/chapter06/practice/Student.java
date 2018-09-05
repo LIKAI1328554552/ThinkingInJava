@@ -5,9 +5,18 @@ package com.likai.chapter06.practice;
  */
 public class Student extends Person{
 
+    private String schoolName ;
+
     public Student() {
         Person person = new Person() ;
         person.personPrint();
     }
 
+    public String getSchoolName() {
+        return schoolName;
+    }
+
+    public void setSchoolName(String schoolName) {
+        this.schoolName = schoolName;
+    }
 }
