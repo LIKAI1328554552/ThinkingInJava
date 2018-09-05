@@ -5,6 +5,7 @@ import java.util.Random;
 /**
  * Created by likai on 2018/08/01.
  * 验证默认初始化
+ * 测试提交
  */
 public class Test1 {
     static int a ;
