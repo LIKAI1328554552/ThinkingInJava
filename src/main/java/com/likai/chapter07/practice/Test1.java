@@ -2,6 +2,7 @@ package com.likai.chapter07.practice;
 
 /**
  * Created by likai on 2018/08/11.
+ * 哈哈哈
  */
 public class Test1 {
     private String s = "Hello World" ;
