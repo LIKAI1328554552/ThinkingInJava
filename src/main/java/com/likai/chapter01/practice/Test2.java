@@ -8,5 +8,6 @@ public class Test2 {
 
     public static void main(String [] args) {
         System.out.println("Hello World");
+        System.out.println("我要制作一个冲突") ;
     }
 }
