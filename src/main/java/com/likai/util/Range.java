@@ -1,5 +1,7 @@
 package com.likai.util;
 
+import java.util.Random;
+
 /**
  * Created by likai on 2018/08/07.
  */
@@ -31,5 +33,17 @@ public class Range {
         }
 
         return args ;
+    }
+
+
+    public static int [] rangeArr(int length) {
+        Random random = new Random(47) ;
+        int [] arr = new int[length] ;
+
+        for(int i = 0 ; i < length ; i ++) {
+            arr[i] = random.nextInt(5000) ;
+        }
+
+        return arr ;
     }
 }
