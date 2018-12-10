@@ -5,6 +5,7 @@ import java.util.Queue;
 
 /**
  * Created by likai on 2018/11/20.
+ * 循环使用
  */
 public class MyQueue {
 
