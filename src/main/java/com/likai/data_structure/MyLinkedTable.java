@@ -1,30 +1,5 @@
 package com.likai.data_structure;
 
-import com.likai.chapter09.GreenhouseController;
-
-/**
- * 节点
- */
-class Node {
-    /**
-     * 节点的数据
-     */
-    int data ;
-
-    /**
-     * 下一个节点的地址
-     */
-    Node next ;
-
-    public Node(int data) {
-        this.data = data ;
-    }
-
-    public void display() {
-        System.out.println(this.data + ",");
-    }
-
-}
 
 /**
  * 链表
@@ -149,6 +124,17 @@ public class MyLinkedTable {
             return null ;
         }
 
+        //仅有一个节点时
+        if(this.first.next == null) {
+            if(this.first.data == data) {
+                Node current = this.first ;
+                this.first = null ;
+                return current ;
+            } else {
+                return null ;
+            }
+        }
+
         //多个节点时
         Node previousNode = null ;
         Node currentNode = this.first ;
@@ -206,10 +192,6 @@ public class MyLinkedTable {
         System.out.println(linked.remove(4).data);
         linked.display();
 
-        System.out.println(linked.remove(4).data);
-        linked.display();
 
-        System.out.println(linked.remove(4).data);
-        linked.display();
     }
 }

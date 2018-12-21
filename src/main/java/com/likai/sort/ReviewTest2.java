@@ -10,19 +10,24 @@ import java.util.Arrays;
  */
 public class ReviewTest2 {
     public static void main(String [] args) {
-        int [] arr = Range.rangeArr(15) ;
-        System.out.println(Arrays.toString(arr));
+        int [] array = Range.rangeArr(15) ;
+        System.out.println(Arrays.toString(array));
 
-        for(int i = 0,len = arr.length - 1 ; i < len; i ++) {
-            for(int j = i + 1,len1 = len + 1; j < len1; j ++) {
-                if(arr[i] > arr[j]) {
-                    int x = arr[i] ;
-                    arr[i] = arr[j] ;
-                    arr[j] = x ;
+        for(int i = 0,len = array.length - 1 ; i < len; i ++) {
+
+            for(int j = i + 1,len2 = array.length ; j < len2; j ++) {
+
+                if(array[i] > array[j]) {
+                    int x = array[i] ;
+                    array[i] = array[j] ;
+                    array[j] = x ;
                 }
+
             }
+
+
         }
 
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(array));
     }
 }

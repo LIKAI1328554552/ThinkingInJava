@@ -2,7 +2,6 @@ package com.likai.chapter12.practice;
 
 import com.likai.util.TextFile;
 
-import java.io.File;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

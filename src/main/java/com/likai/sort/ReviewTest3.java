@@ -10,21 +10,27 @@ import java.util.Arrays;
  */
 public class ReviewTest3 {
     public static void main(String [] args) {
-        int [] arr = Range.rangeArr(10) ;
+        int [] array = Range.rangeArr(15) ;
 
-        System.out.println(Arrays.toString(arr));
-        for(int i = 1,len = arr.length ; i < len; i ++) {
-            if(arr[i - 1] > arr[i]) {
-                int x = arr[i] ;
-                int k = i - 1 ;
-                while (k >= 0 && arr[k] > x) {
-                    arr[k + 1] = arr[k] ;
-                    k -- ;
+        System.out.println(Arrays.toString(array));
+
+        for(int i = 1,len = array.length ; i < len; i ++) {
+
+            if(array[i - 1] > array[i]) {
+                int x = array[i] ;
+                int k = i -1 ;
+                while(k >= 0 && array[k] > x) {
+                    array[k + 1] = array[k] ;
+                    k -= 1 ;
                 }
-                arr[k + 1] = x ;
+
+                array[k + 1] = x ;
             }
+
         }
-        System.out.println(Arrays.toString(arr));
+
+
+        System.out.println(Arrays.toString(array));
 
     }
 }

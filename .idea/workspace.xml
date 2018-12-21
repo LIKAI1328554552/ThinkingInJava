@@ -1,26 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b95156f8-b6cf-4f9d-a7f6-1293992cf650" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/ReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/SortedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/ReviewLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/814b5787-1f77-46a1-ac54-104286e0830e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/814b5787-1f77-46a1-ac54-104286e0830e.xml" afterDir="false" />
+    <list default="true" id="b95156f8-b6cf-4f9d-a7f6-1293992cf650" name="Default" comment="提交">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_10_FINAL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_10_FINAL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_10_FINAL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BasicFileOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BufferedInputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/FormatterMemoryInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/MemoryInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/StoringAndRecoveringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/UsingRandomAccessFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/DoubleEndedLinkedTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/TwoWayLinkedTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/recursive/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/recursive/Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/util/CheckRyCsny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/util/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/util/FastJsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/likai/util/JsonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkingInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThinkingInJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/likai/util/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/likai/util/TextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/likai/chapter12/practice/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/likai/chapter12/practice/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/likai/chapter12/practice/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/likai/chapter12/practice/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/likai/util/TextFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/likai/util/TextFile.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,6 +60,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ThinkingInJava$Test4.ic" NAME="Test4 Coverage Results" MODIFIED="1544859934818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.likai.chapter18.pratice.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/ThinkingInJava$Test7.ic" NAME="Test7 Coverage Results" MODIFIED="1544351383778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.likai.chapter17.practice.*</FILTER>
     </SUITE>
@@ -48,25 +80,30 @@
     <session id="-1360535894">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13841" />
+          <entry key="JAVA" value="28693" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="89" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -77,46 +114,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/test/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-74">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="1100">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/ReferenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#527#536#0" expanded="true" />
-                <element signature="e#1040#1064#0" expanded="true" />
-                <element signature="e#1413#1437#0" expanded="true" />
-                <element signature="e#1739#1748#0" expanded="true" />
-                <element signature="e#1841#1850#0" expanded="true" />
-                <element signature="e#1841#1868#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Countries.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/test/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="60" column="45" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="45" />
+            <state relative-caret-position="499">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/UsingRandomAccessFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BasicFileOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="852">
+              <caret line="127" selection-start-line="127" selection-end-line="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/FormatterMemoryInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="103" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Echo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +210,7 @@
       <find>iter</find>
       <find>toString</find>
       <find>entries</find>
+      <find>toArray</find>
     </findStrings>
     <replaceStrings>
       <replace>Sysout.out.println</replace>
@@ -158,42 +224,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/ToyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/SweetShop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/Range.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/Test3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/MST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/ShowMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/SimpleDynamicProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/SimpleProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/DateNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/BerylliumSphere.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/CompType.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resource/quartz.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/quartz/HelloQuartz.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/quartz/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyOrderArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/ReviewStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Countries.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test3.java" />
@@ -202,13 +236,45 @@
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/ReviewLinked.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test7.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/ReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/CheckRyCsny.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/DoubleEndedLinkedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/data_structure/TwoWayLinkedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/Directory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/recursive/Recursive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BufferedInputFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/MemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/FormatterMemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test5.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/FastJsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/recursive/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/StoringAndRecoveringData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/UsingRandomAccessFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/util/TextFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Echo.java" />
       </list>
     </option>
   </component>
@@ -249,6 +315,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,7 +366,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -309,8 +376,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
+              <item name="pratice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -320,69 +387,20 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Countries.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Test3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Test4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Test7.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="likai" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workspace_idea/ThinkingInJava/src/main/java/com/likai/chapter11/practice/Test2.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544446125860" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545381626535" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sybase (jTds)&#10;Sqlite (Xerial)" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -391,6 +409,9 @@
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AboutConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\ThinkingInJava\src\main\java\com\likai\util" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace_idea\ThinkingInJava\src\main" />
     </key>
@@ -407,7 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReferenceTest">
+  <component name="RunManager" selected="JUnit.Echo.test2">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -441,13 +462,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.likai.chapter17.practice.ReferenceTest" />
+    <configuration name="Echo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.likai.chapter18.pratice.Echo" />
       <module name="ThinkingInJava" />
-      <option name="PROGRAM_PARAMETERS" value="20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.likai.chapter17.practice.*" />
+          <option name="PATTERN" value="com.likai.chapter18.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,12 +477,12 @@
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.likai.chapter17.practice.Test1" />
+      <option name="MAIN_CLASS_NAME" value="com.likai.test.Test1" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.likai.chapter17.practice.*" />
+          <option name="PATTERN" value="com.likai.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,40 +491,12 @@
       </method>
     </configuration>
     <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.likai.chapter17.practice.Test6" />
+      <option name="MAIN_CLASS_NAME" value="com.likai.chapter18.pratice.Test6" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.likai.chapter17.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.likai.chapter17.practice.Test7" />
-      <module name="ThinkingInJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.likai.chapter17.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.likai.chapter17.practice.Test8" />
-      <module name="ThinkingInJava" />
-      <option name="PROGRAM_PARAMETERS" value="20" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.likai.chapter17.practice.*" />
+          <option name="PATTERN" value="com.likai.chapter18.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -551,6 +544,40 @@
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration name="Echo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.likai.chapter18.pratice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.likai.chapter18.pratice" />
+      <option name="MAIN_CLASS_NAME" value="com.likai.chapter18.pratice.Echo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThinkingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.likai.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.likai.test" />
+      <option name="MAIN_CLASS_NAME" value="com.likai.test.Test1" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -619,19 +646,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Test6" />
-      <item itemvalue="Application.Test7" />
-      <item itemvalue="Application.Test8" />
-      <item itemvalue="Application.ReferenceTest" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="JUnit.Test1.test2" />
+      <item itemvalue="Application.Echo" />
+      <item itemvalue="JUnit.Echo.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReferenceTest" />
-        <item itemvalue="Application.Test8" />
-        <item itemvalue="Application.Test7" />
-        <item itemvalue="Application.Test6" />
+        <item itemvalue="JUnit.Echo.test2" />
+        <item itemvalue="Application.Echo" />
+        <item itemvalue="JUnit.Test1.test2" />
         <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +715,18 @@
       <workItem from="1544095623255" duration="1018000" />
       <workItem from="1544100443253" duration="5571000" />
       <workItem from="1544344234904" duration="17642000" />
-      <workItem from="1544443602442" duration="2521000" />
+      <workItem from="1544443602442" duration="6771000" />
+      <workItem from="1544517156376" duration="2936000" />
+      <workItem from="1544616426913" duration="5424000" />
+      <workItem from="1544852601640" duration="13380000" />
+      <workItem from="1545047603853" duration="6712000" />
+      <workItem from="1545124485124" duration="1662000" />
+      <workItem from="1545134724845" duration="6019000" />
+      <workItem from="1545200704569" duration="1033000" />
+      <workItem from="1545217301913" duration="5915000" />
+      <workItem from="1545271795860" duration="2734000" />
+      <workItem from="1545291409633" duration="715000" />
+      <workItem from="1545374320203" duration="2953000" />
     </task>
     <task id="LOCAL-00001" summary="添加注解信息">
       <created>1535701913921</created>
@@ -756,8 +794,40 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="StoringAndRecoveringData_test2 - 2018.12.19 at 19h 07m 06s.xml">
+      <configuration name="StoringAndRecoveringData.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 20m 44s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 21m 06s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 21m 17s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 47m 08s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 47m 28s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 47m 51s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 48m 57s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 49m 37s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test2 - 2018.12.20 at 10h 50m 14s.xml">
+      <configuration name="Test1.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203915000" />
+    <option name="totallyTimeSpent" value="257648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,11 +840,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23880596" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.26812366" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="JRebel" order="3" sideWeight="0.50082374" side_tool="true" weight="0.2468017" />
       <window_info id="Image Layers" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
@@ -782,16 +853,16 @@
       <window_info id="Nl-Palette" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38177875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.11713666" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22451194" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3449024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32924107" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.6203905" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.34164858" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.26898047" />
       <window_info anchor="bottom" id="JRebel Executor" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.32924107" />
@@ -931,7 +1002,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java</url>
-          <line>147</line>
+          <line>122</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
@@ -995,6 +1066,36 @@
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/DoubleEndedLinkedTable.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/DoubleEndedLinkedTable.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test3.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/likai/util/Directory.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/likai/test/Test2.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test7.java</url>
           <line>206</line>
@@ -1017,254 +1118,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/SimpleDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/SimpleProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/DateNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/BerylliumSphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="491" column="7" lean-forward="true" selection-start-line="491" selection-start-column="7" selection-end-line="491" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter13/practice/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter16/practice/CompType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resource/quartz.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/quartz/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/quartz/HelloQuartz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/ReviewStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="174" column="22" lean-forward="true" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="190" column="6" selection-start-line="190" selection-start-column="6" selection-end-line="190" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyOrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3938">
-          <caret line="182" column="39" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="39" />
-          <folding>
-            <element signature="imports" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="3887" column="33" lean-forward="true" selection-start-line="3887" selection-start-column="33" selection-end-line="3887" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/SortedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="687" column="19" selection-start-line="687" selection-start-column="19" selection-end-line="687" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_141/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="384" column="12" selection-start-line="384" selection-start-column="12" selection-end-line="384" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3410">
-          <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/ReviewLinked.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3036">
@@ -1297,13 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/LinkedHashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -1349,57 +1195,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="method#get#0;class#SlowMap17#0" />
-            <element signature="method#putAll#0;class#SlowMap17#0" />
-            <element signature="method#clear#0;class#SlowMap17#0" />
-            <element signature="e#1978#1979#0" expanded="true" />
-            <element signature="e#2012#2013#0" expanded="true" />
-            <element signature="e#2520#2521#0" expanded="true" />
-            <element signature="e#2590#2591#0" expanded="true" />
-            <element signature="e#3259#3260#0" expanded="true" />
-            <element signature="e#3301#3302#0" expanded="true" />
-            <element signature="class#MapEntry#0;class#SlowMap17#0" />
-            <element signature="e#3534#3535#0" expanded="true" />
-            <element signature="e#3565#3566#0" expanded="true" />
-            <element signature="e#3725#3726#0" expanded="true" />
-            <element signature="e#3764#3765#0" expanded="true" />
-            <element signature="e#3813#3814#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#4418#4419#0" expanded="true" />
-            <element signature="e#4473#4474#0" expanded="true" />
-            <element signature="e#4733#4734#0" expanded="true" />
-            <element signature="e#4768#4769#0" expanded="true" />
-            <element signature="e#5040#5041#0" expanded="true" />
-            <element signature="e#5110#5111#0" expanded="true" />
-            <element signature="e#5500#5501#0" expanded="true" />
-            <element signature="e#5542#5543#0" expanded="true" />
-            <element signature="e#5594#5595#0" expanded="true" />
-            <element signature="e#5643#5644#0" expanded="true" />
-            <element signature="e#5767#5783#0" expanded="true" />
-            <element signature="e#5905#5920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="60" selection-start-line="60" selection-end-line="107" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1412,22 +1211,294 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/ReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="491">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/CheckRyCsny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/MyLinkedTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/DoubleEndedLinkedTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="216" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/data_structure/TwoWayLinkedTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="112" column="22" lean-forward="true" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/LinkedHashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#527#536#0" expanded="true" />
-            <element signature="e#1040#1064#0" expanded="true" />
-            <element signature="e#1413#1437#0" expanded="true" />
-            <element signature="e#1739#1748#0" expanded="true" />
-            <element signature="e#1841#1850#0" expanded="true" />
-            <element signature="e#1841#1868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter17/practice/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="method#get#0;class#SlowMap17#0" />
+            <element signature="method#putAll#0;class#SlowMap17#0" />
+            <element signature="method#clear#0;class#SlowMap17#0" />
+            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="e#2012#2013#0" expanded="true" />
+            <element signature="class#MapEntry#0;class#SlowMap17#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/Directory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/recursive/Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/MemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/FastJsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="110" column="7" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/recursive/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/sort/ReviewTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BufferedInputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/StoringAndRecoveringData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter12/practice/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/util/TextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/UsingRandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/BasicFileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/FormatterMemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/likai/chapter18/pratice/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
