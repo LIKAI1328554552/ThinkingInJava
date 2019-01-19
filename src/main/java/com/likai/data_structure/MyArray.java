@@ -74,7 +74,7 @@ public class MyArray {
     public int search(int value) {
         int x = 0 ;
 
-        //遍历数组 确定要插入的位置
+        //遍历数组
         for (int i = 0 ; i < this.size ; i ++) {
             if(this.array[i] == value) {
                 x = i ;

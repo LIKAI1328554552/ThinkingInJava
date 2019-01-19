@@ -154,6 +154,7 @@ class SlowMap17<K,V> implements Map<K,V> {
         }
 
         public MapEntry(K key,V value) {
+            System.out.println("11111" + key + "," + value);
             this.key = key ;
             this.value = value ;
         }

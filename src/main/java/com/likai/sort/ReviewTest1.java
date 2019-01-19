@@ -15,13 +15,14 @@ public class ReviewTest1 {
 
        System.out.println(Arrays.toString(array));
 
-       for(int i = 0,len = array.length - 1 ; i < len; i ++) {
+       for(int i = 0,len = array.length - 1 ; i < len ; i ++) {
 
-           for (int j = 0,len2 = array.length - 1 -i;j < len2 ;j++) {
-               if(array[j] > array[j + 1]) {
-                   int x = array[j] ;
+           for(int j = 0,len1 = array.length - 1 - i ; j < len1; j ++) {
+
+               if (array[j] > array[j + 1]) {
+                   int temp = array[j] ;
                    array[j] = array[j + 1] ;
-                   array[j + 1] = x ;
+                   array[j + 1] = temp ;
                }
            }
        }

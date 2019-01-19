@@ -80,7 +80,7 @@ public class TextFile extends ArrayList<String> {
         System.out.println(s);*/
 
         /*TextFile.write("D:/1111.txt","测试测试测试");*/
-        TextFile list = new TextFile("D:/crawler.txt") ;
+        TextFile list = new TextFile("D:/test1.docx") ;
         for (String s1 : list) {
             System.out.println(s1);
         }

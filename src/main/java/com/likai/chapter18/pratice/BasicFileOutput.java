@@ -3,6 +3,11 @@ package com.likai.chapter18.pratice;
 import org.junit.Test;
 
 import java.io.*;
+import java.nio.ByteBuffer;
+import java.nio.CharBuffer;
+import java.nio.channels.FileChannel;
+import java.nio.charset.Charset;
+import java.nio.charset.CharsetDecoder;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -91,7 +96,6 @@ public class BasicFileOutput {
     public void test3() throws Exception {
         String filePath1 = "D:/testIo1.txt" ;
         String filePath2 = "D:/testIo2.txt" ;
-
         BufferedReader reader = new BufferedReader(new FileReader("D:/crawler.txt")) ;
         PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(filePath1))) ;
         String s ;
@@ -103,8 +107,6 @@ public class BasicFileOutput {
         writer.close();
 
         System.out.println("BufferedWriter 花费: " + duration + " 毫秒");
-
-
 
     }
 
@@ -123,6 +125,42 @@ public class BasicFileOutput {
         writer2.close();
 
         System.out.println("Writer 花费: " + duration2 + " 毫秒");
+    }
+
+    /**
+     * 使用通道将文件内容读入内存
+     */
+    @Test
+    public void test5() {
+        String filePath = "D:" + File.separator + "crawler.txt" ;
+        FileChannel channel = null ;
+        try {
+            //获取通道
+            channel = new FileInputStream(filePath).getChannel();
+            //创建缓冲区
+            ByteBuffer buffer = ByteBuffer.allocate((int) channel.size());
+            //创建charset
+            Charset charset = Charset.forName("UTF-8");
+            CharsetDecoder decoder = charset.newDecoder();
+            while(channel.read(buffer) != -1) {
+                buffer.flip();
+                //解码
+                CharBuffer charBuffer = decoder.decode(buffer);
+
+                System.out.println(charBuffer.toString());
+
+                buffer.clear() ;
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                channel.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
 

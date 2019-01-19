@@ -6,33 +6,27 @@ import java.util.Arrays;
 
 /**
  * Created by likai on 2018/11/09.
- * 插入排序 复习
+ * 希尔排序 复习
  */
-public class ReviewTest3 {
+public class ReviewTest4 {
     public static void main(String [] args) {
         int [] array = Range.rangeArr(15) ;
-
         System.out.println(Arrays.toString(array));
+        /**
+         * 第二个条件 h 要 大于 0
+         */
+        for(int h = array.length / 2; h > 0; h /= 2) {
+            for(int i = h,len = array.length ; i < len  ; i ++) {
 
-        for(int i = 1,len = array.length ; i < len ; i ++) {
-
-            if (array[i] < array[i-1]) {
                 int x = array[i] ;
-                int k = i - 1 ;
+                int k = i - h ;
                 while (k >= 0 && array[k] > x) {
-                    array[k + 1] = array[k] ;
-                    k -= 1 ;
+                    array[k + h] = array[k] ;
+                    k -= h ;
                 }
-
-                array[k + 1] = x ;
+                array[k + h] = x ;
             }
-
-
         }
-
-
-
         System.out.println(Arrays.toString(array));
-
     }
 }
